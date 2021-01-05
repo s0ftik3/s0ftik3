@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=s0ftik3&show_icons=true" />
+</div>
+
 <!--
 **s0ftik3/s0ftik3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
