@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=s0ftik3&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=s0ftik3&show_icons=true&theme=darcula" />
 </div>
 
 <!--
