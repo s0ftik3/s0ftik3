@@ -7,7 +7,7 @@
       <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0ftik3&layout=compact&hide_border=true&theme=darcula&bg_color=0d1117" /></td>
   </tr> 
 </table>
-![](https://komarev.com/ghpvc/?username=s0ftik3&color=blue)  
+<td><img src="https://komarev.com/ghpvc/?username=s0ftik3&color=blue" /></td>
 </p>
 
 <!--
