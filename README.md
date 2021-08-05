@@ -46,5 +46,3 @@
 </table>
 <td><img src="https://komarev.com/ghpvc/?username=s0ftik3&color=blue" /></td>
 </p>
-
----
