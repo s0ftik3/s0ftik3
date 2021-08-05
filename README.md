@@ -5,7 +5,7 @@
 <br />
 — 🎨 I also do some graphic design. You can check my works on [Dribbble](https://dribbble.com/notverydesign) or [Telegram](https://t.me/notverydesign) (haven't updated both for a while).
 
-<br />
+---
 
 ### 🛠 Languages and Tools:
 
